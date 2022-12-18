@@ -67,9 +67,9 @@
 background-image: url("..\img\Expo coming soon.png")no-repeat center center/cover;}
 
 .homepage .logo{
-    position: absolute;
+    position: relative;
     left: 497px;
-    top: 169px;
+    /*top: 169px;*/
 width: 507px;
 height: 340px;
 
@@ -79,16 +79,16 @@ height: 340px;
 
 .homemain{
     
-    position: absolute;
+    position: relative;
     left: 193px;
-    top: 509px;
+   /* top: 509px;*/
 width: 1080px;
 
 height: 1950px;
 
 }
 
-.rectangle{position: absolute;
+.rectangle{position:absolute;
 width: 1564px;
 height: 72px;
 top: 1090px;
@@ -158,8 +158,8 @@ transform: rotate(-90deg);
 }
 
 #about .heading{
-    position: absolute;
-    top:1400px;
+    position: relative;
+  /*  top:1400px;*/
 width: 1800px;
 height: 180px;
 left: 24%;
@@ -186,8 +186,8 @@ text-fill-color: transparent;
 }
 
 #about .para{
-    position: absolute;
-    top:1590px;
+    position: relative;
+   /* top:1590px;*/
     left:15%;
 
 width: 1100px;
@@ -210,8 +210,8 @@ color: #FFFFFF;
 }
 
 #about .headingg{
-    position: absolute;
-    top:1950px;
+    position: relative;
+   /* top:1950px;*/
 width: 1800px;
 height: 180px;
 left: 24%;
@@ -238,8 +238,8 @@ text-fill-color: transparent;
 }
 
 #about .paraa{
-    position: absolute;
-    top:2000px;
+    position: relative;
+   /* top:2000px;*/
     left:15%;
 
 width: 1100px;
@@ -262,8 +262,8 @@ color: #FFFFFF;
 }
 
 #about .img .sl{
-    position: absolute;
-    top:1500px;
+    position: relative;
+   /* top:1500px;*/
     right:85%;
 width: 556px;
 height: 538px;
@@ -273,8 +273,8 @@ background: radial-gradient(41.29% 41.29% at 50% 50%, #0C81E9 0%, rgba(0, 0, 0, 
 }
 
 #about .img .sr{
-    position: absolute;
-    top:1500px;
+    position:relative;
+   /* top:1500px;*/
     left:85%;
 width: 556px;
 height: 538px;
@@ -284,8 +284,8 @@ background: radial-gradient(41.29% 41.29% at 50% 50%, #0C81E9 0%, rgba(0, 0, 0, 
 }
 
 #about .img .sl1{
-    position: absolute;
-    top:1900px;
+    position: relative;
+    /*top:1900px;*/
     right:85%;
 width: 556px;
 height: 538px;
@@ -295,8 +295,8 @@ background: radial-gradient(41.29% 41.29% at 50% 50%, #0C81E9 0%, rgba(0, 0, 0, 
 }
 
 #about .img .sr1{
-    position: absolute;
-    top:1900px;
+    position: relative;
+    /*top:1900px;*/
     left:85%;
 width: 556px;
 height: 538px;
@@ -305,8 +305,8 @@ background: radial-gradient(41.29% 41.29% at 50% 50%, #0C81E9 0%, rgba(0, 0, 0, 
 
 }
 
-#about .hp--btn .apply{position: absolute;
-    top:2320px;
+#about .hp--btn .apply{position: relative;
+   /* top:2320px;*/
     left:40%;
     
 width: 312px;
@@ -325,8 +325,8 @@ text-transform: uppercase;
 color: #1381E2;}
 
 #about .rect .sl1{
-    position: absolute;
-    top:2320px;
+    position: relative;
+    /*top:2320px;*/
     left:40%;
 width: 382px;
 height: 80px;
@@ -337,9 +337,9 @@ border-radius: 20px;
 }
 
 #why .heading{
-    top:2250px;
+   /* top:2250px;*/
     left: 30%;
-    position: absolute;
+    position: relative;
 width: 664px;
 height: 99px;
 
@@ -366,8 +366,8 @@ text-fill-color: transparent;
 #why .whyrow .r11{
     box-sizing: border-box;
 
-position: absolute;
-top:2400px;
+position: relative;
+/*top:2400px;*/
     left: 10%;
 width: 327px;
 height: 344px;
@@ -382,8 +382,8 @@ border-radius: 20px;
 #why .whyrow .r12{
     box-sizing: border-box;
 
-position: absolute;
-top:2400px;
+position: relative;
+/*top:2400px*/;
     left: 45%;
 width: 327px;
 height: 344px;
@@ -399,8 +399,8 @@ border-radius: 20px;
 #why .whyrow .r13{
     box-sizing: border-box;
 
-position: absolute;
-top:2400px;
+position: relative;
+/*top:2400px;*/
     left: 80%;
 width: 327px;
 height: 344px;
@@ -416,8 +416,8 @@ border-radius: 20px;
 #why .whyrow .r21{
     box-sizing: border-box;
 
-position: absolute;
-top:2800px;
+position:relative;
+/*top:2800px;*/
     left: 10%;
 width: 327px;
 height: 344px;
@@ -433,10 +433,10 @@ border-radius: 20px;
 #why .whyrow .r22{
     box-sizing: border-box;
 
-position: absolute;
-top:2800px;
+position: relative;
+/*top:2800px;*/
     left: 45%;
-width: 327px;
+width: 327px;   
 height: 344px;
 
 background: radial-gradient(100% 100% at 28.98% 0%, rgba(255, 255, 255, 0.4) 0%, rgba(255, 255, 255, 0.1) 100%) /* warning: gradient uses a rotation that is not supported by CSS and may not behave as expected */;
@@ -450,8 +450,8 @@ border-radius: 20px;
 #why .whyrow .r23{
     box-sizing: border-box;
 
-position: absolute;
-top:2800px;
+position: relative;
+/*top:2800px;*/
     left: 80%;
 width: 327px;
 height: 344px;
@@ -468,8 +468,8 @@ border-radius: 20px;
 #why .whyrow .r31{
     box-sizing: border-box;
 
-position: absolute;
-top:3200px;
+position: relative;
+/*top:3200px;*/
     left: 10%;
 width: 327px;
 height: 344px;
@@ -485,8 +485,8 @@ border-radius: 20px;
 #why .whyrow .r32{
     box-sizing: border-box;
 
-position: absolute;
-top:3200px;
+position: relative;
+/*top:3200px;*/
     left: 45%;
 width: 327px;
 height: 344px;
@@ -502,8 +502,8 @@ border-radius: 20px;
 #why .whyrow .r33{
     box-sizing: border-box;
 
-position: absolute;
-top:3200px;
+position:relative;
+/*top:3200px;*/
     left: 80%;
 width: 327px;
 height: 344px;
@@ -517,9 +517,9 @@ border-radius: 20px;
 }
 
 #attend .heading{
-    top:3700px;
+   /* top:3700px;*/
     left: 50%;
-    position: absolute;
+    position: relative;
 width: 664px;
 height: 99px;
 
@@ -545,8 +545,8 @@ text-fill-color: transparent;
 }
 
 #attend .img .i{
-    position: absolute;
-    top:3720px;
+    position: relative;
+   /* top:3720px;*/
     right: 60%;
 width: 507px;
 height: 340px;
@@ -556,8 +556,8 @@ height: 340px;
 
 #attend .list {
 
-position: absolute;
-top:3920px;
+position:relative;
+/*top:3920px;*/
 left: 45%;
 width: 1289px;
 height: 196px;
@@ -576,9 +576,9 @@ color: #FFFFFF;
 }
 
 #map .heading{
-    top:4310px;
+   /* top:4310px;*/
     left: 40%;
-    position: absolute;
+    position: relative;
 width: 664px;
 height: 99px;
 
@@ -604,8 +604,8 @@ text-fill-color: transparent;
 #map .img .i{
     box-sizing: border-box;
   
-position: absolute;
-top:4400px;
+position: relative;
+/*top:4400px;*/
 left:25%;
 width: 963px;
 height: 985px;
@@ -622,8 +622,8 @@ border-radius: 20px;
 #map .img .ii{
     box-sizing: border-box;
   
-position: absolute;
-top:4550px;
+position: relative;
+/*top:4550px;*/
 left:33.5%;
 width: 676px;
 height: 687px;
@@ -638,8 +638,8 @@ border-radius: 20px;
 }
 
 #why .img .sl{
-    position: absolute;
-    top:2800px;
+    position: relative;
+   /* top:2800px;*/
     right:1%;
 width: 556px;
 height: 538px;
@@ -649,8 +649,8 @@ background: radial-gradient(41.29% 41.29% at 50% 50%, #0C81E9 0%, rgba(0, 0, 0, 
 }
 
 #why .img .sr{
-    position: absolute;
-    top:2800px;
+    position: relative;
+    /*top:2800px;*/
     left:1%;
 width: 556px;
 height: 538px;
